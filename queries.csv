@@ -1,0 +1,4 @@
+submit ls 
+submit ls-la
+submit find /usr
+submit ps-ef
